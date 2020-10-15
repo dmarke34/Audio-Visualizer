@@ -85,4 +85,3 @@ Music
         --> Wave Interference - When two or more waves traverse the same space, the net 
             amplitude at each point is the sum of the amplitudes of the individual waves
 
-            wewewe
