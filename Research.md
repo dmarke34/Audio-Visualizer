@@ -1,6 +1,5 @@
-#TOPIC : Audio Frequency Visualizer#
-
-
+TOPIC : Audio Frequency Visualizer
+-----------------------
 Type of Project: Applied Project
 
 
