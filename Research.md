@@ -68,7 +68,7 @@ MULTIPLE PAGES (LED FROM BUTTONS ON FRONT PAGE)
 
 ## 10/10
 
-  Fast Fourier Transform
+ Fast Fourier Transform
 
 - Algorithm to convert time domain to a frequency domain
 - Javascript already implements the algorithm in its libraries
