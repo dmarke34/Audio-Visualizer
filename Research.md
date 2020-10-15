@@ -4,7 +4,8 @@ Type of Project: Applied Project
 TOPIC : Audio Frequency Visualizer
 
 
-Sources
+Sources:
+
 https://en.wikipedia.org/wiki/Fast_Fourier_transform
 
 https://developer.mozilla.org/en-US/
@@ -75,7 +76,7 @@ MULTIPLE PAGES (LED FROM BUTTONS ON FRONT PAGE)
     - Javascript already implements the algorithm in its libraries 
     - Include in research paper how the algorithm can be utilized 
       although its not necessary 
-    -  
+
 
 Music
     - Each note has an established frequency
