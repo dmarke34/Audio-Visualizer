@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TOPIC : Audio Frequency Visualizer
 
 Type of Project: Applied Project
@@ -85,5 +85,4 @@ Music
   - Wave Interference - When two or more waves traverse the same space, the net
     amplitude at each point is the sum of the amplitudes of the individual waves
 =======
-# Audio-Visualizer
->>>>>>> d5970feb5b211bd22bf5ac29287db8164c89bac7
+
