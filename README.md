@@ -84,3 +84,19 @@ Music
       of the responses that would have been caused by each stimulus individually
   - Wave Interference - When two or more waves traverse the same space, the net
     amplitude at each point is the sum of the amplitudes of the individual waves
+
+## 10/20
+
+Song #1: Hurrian Hymn No. 6
+
+- Considered the world's earliest melody
+- 1400 BCE
+- Cuneiform signs of the ancient Hurrian language written on a clay tablet
+- Discovered in the 1950s at Ugarit, Syria
+
+Song #2: Epitaph of Seikilos
+
+- Earliest suriving complete musical composition
+- 200 BCE to as late as 100 CE
+- Ancient Greek musical notation was found engraved on a tombstone from present-day Aydin Turkey
+- Notation with markings above them to indicate syllables and pitch
