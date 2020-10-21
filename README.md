@@ -100,3 +100,7 @@ Song #2: Epitaph of Seikilos
 - 200 BCE to as late as 100 CE
 - Ancient Greek musical notation was found engraved on a tombstone from present-day Aydin Turkey
 - Notation with markings above them to indicate syllables and pitch
+
+## 10/21
+
+Song #3: 
