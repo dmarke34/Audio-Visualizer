@@ -30,7 +30,7 @@ Sources:
 4) Using HTML and CSS to make the website user friendly
 5) Use Figma.com to draw an outline on how my multiple pages would look like
 
-## 10/2 fdf
+## 10/2
 
 **MU3100 Final Project General Ideas** 
 
