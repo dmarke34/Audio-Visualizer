@@ -30,7 +30,7 @@ Sources:
 4) Using HTML and CSS to make the website user friendly
 5) Use Figma.com to draw an outline on how my multiple pages would look like
 
-## 10/2
+## 10/2 fdf
 
 **MU3100 Final Project General Ideas** 
 
@@ -87,7 +87,7 @@ Music
 
 ## 10/20
 
-Song #1: Hurrian Hymn No. 6 fdf
+Song #1: Hurrian Hymn No. 6
 
 - Considered the world's earliest melody
 - 1400 BCE
