@@ -1,5 +1,5 @@
 body {
-    background: #efefef;
+    background: #1a1a1a;
     height: 100vh;
     padding-bottom: 40px;
     padding-left: 20px;
@@ -122,4 +122,48 @@ body {
   a{
     text-decoration: none;
     color: black;
+    }
+
+    .fifth{
+    font-family: 'Gloria Hallelujah', cursive;
+    position:absolute;
+    transition: .5s ease;
+    top: 55%;
+    left: 48%;
+    color: #494949 !important;
+    text-transform: uppercase;
+    background: #E6E6E6;
+    padding: 20px;
+    border: 4px solid #494949 !important;
+    display: inline-block;
+    transition: all 0.4s ease 0s;
+    }
+
+    .fifth:hover{
+      color: #ffffff;
+      background: #f6b93b;
+      border-color: #f6b93b !important;
+      transition: all 0.4s ease 0s; 
+    }
+  
+    .sixth{
+      font-family: 'Gloria Hallelujah', cursive;
+      position:absolute;
+      transition: .5s ease;
+      top: 55%;
+      left: 72%;
+      color: #494949 !important;
+      text-transform: uppercase;
+      background: #E6E6E6;
+      padding: 20px;
+      border: 4px solid #494949 !important;
+      display: inline-block;
+      transition: all 0.4s ease 0s;
+    }
+
+    .sixth:hover{
+      color: #ffffff;
+      background: #f6b93b;
+      border-color: #f6b93b !important;
+      transition: all 0.4s ease 0s; 
     }
