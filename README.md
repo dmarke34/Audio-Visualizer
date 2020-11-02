@@ -106,11 +106,7 @@ Song #2: Epitaph of Seikilos
 Song #3: Se li maus c'amours envoie
 
 - Adam de la Halle song, who lived in the late 13th century
-
 - Transistioned from traditional liturgical music to secular theater in France
-
 - One of the few medival musicians to be credited with both monophonic and polyphonic music
-
 - Monophonic - Consisting of melody without accompanying harmony
-
 - Polyphonic - Consists of two or more independent melodic lines
