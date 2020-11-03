@@ -114,3 +114,5 @@ Song #3: Se li maus c'amours envoie
 ## 11/01
 
 Song #4: De Fortune Me Doi Plaindre Et Loer
+
+TODO: Add information about the song to each page
