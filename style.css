@@ -14,6 +14,19 @@ body {
     justify-content: flex-end;
   }
   
+  .line1{
+    position: absolute;
+    top: 54px;
+    left: 16px;
+    font-size: 18px;
+  }
+
+  .line2{
+    position: absolute;
+    top:100px;
+    left: 16px;
+    font-size: 18px;
+  }
   audio {
     width: 100%;
   }
