@@ -14,19 +14,48 @@ body {
     justify-content: flex-end;
   }
   
+  
+
   .line1{
+    color: #C0C0C0;
     position: absolute;
-    top: 54px;
+    top: 70px;
     left: 16px;
-    font-size: 18px;
+    font-size: 25px;
   }
 
   .line2{
+    color: #C0C0C0;
     position: absolute;
-    top:100px;
+    top:120px;
     left: 16px;
-    font-size: 18px;
+    font-size: 25px;
   }
+
+  .line3{
+    color: #C0C0C0;
+    position: absolute;
+    top:170px;
+    left: 16px;
+    font-size: 25px;
+  }
+
+  .line4{
+    color: #C0C0C0;
+    position: absolute;
+    top:220px;
+    left: 16px;
+    font-size: 25px;
+  }
+
+  .line5{
+    color: #C0C0C0;
+    position: absolute;
+    top:270px;
+    left: 16px;
+    font-size: 25px;
+  }
+
   audio {
     width: 100%;
   }

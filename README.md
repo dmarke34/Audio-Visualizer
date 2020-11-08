@@ -92,7 +92,7 @@ Song #1: Hurrian Hymn No. 6
 - Considered the world's earliest melody
 - 1400 BCE
 - Cuneiform signs of the ancient Hurrian language written on a clay tablet
-- Discovered in the 1950s at Ugarit, Syria
+- Discovered in the 1950s in Ugarit, Syria
 
 Song #2: Epitaph of Seikilos
 
@@ -115,5 +115,5 @@ Song #3: Se li maus c'amours envoie
 
 Song #4: De Fortune Me Doi Plaindre Et Loer
 
-- 
+-
 TODO: Add information about the song to each page
