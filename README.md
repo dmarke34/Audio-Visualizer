@@ -115,5 +115,16 @@ Song #3: Se li maus c'amours envoie
 
 Song #4: De Fortune Me Doi Plaindre Et Loer
 
--
+- Composed by Guillaume de Machaut, one of the earliest composers on whom plenty of information is available
+- Composer of late Medieval music who was the central figure of the Ars nova style
+- He was dubbed "the last great poet who was also a composer"
+- The period of the Ars nova saw the rise of more complex structures and richer polyphonic textures
+
+## 11/10
+
+Song #5: L'Orfeo
+
+- Opera by Claudio Monteverdi written in 1607
+- 
+
 TODO: Add information about the song to each page
