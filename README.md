@@ -125,6 +125,17 @@ Song #4: De Fortune Me Doi Plaindre Et Loer
 Song #5: L'Orfeo
 
 - Opera by Claudio Monteverdi written in 1607
-- 
+- One of the earliest operas and the earliest that is still regularly performed
+- Based on the Greek legend of Orpheus
+- Beginning of the transition from the traditional intermedio into a complex musical drama
 
 TODO: Add information about the song to each page
+
+## 11/11
+
+Song #6: Video Killed the Radio Star
+
+- Song by The Buggles released in 1979
+- First music video played on America's MTV in 1981
+- Introducing an era of 24-hour-a-day music on television
+- First video shown on MTV Clasic in the UK in 2010
