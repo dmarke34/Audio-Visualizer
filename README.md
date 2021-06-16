@@ -3,6 +3,8 @@
 
 Google Doc: https://docs.google.com/document/d/12eVpE9eNQUtOoIETSqRJoAV-0tCZ-hgNvgSWrt9xjJM/edit?usp=sharing
 
+Video Proof: https://youtu.be/dahCWkWQe2M 
+
 Type of Project: Applied Project
 
 Sources:
